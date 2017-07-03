@@ -9,7 +9,6 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends Activity 
-	implements OnClickListener{
 	Button btnChandoan;
 	EditText editTen,editChieucao,
 			editCannang,editBMI,editChandoan;
